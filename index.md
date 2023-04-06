@@ -14,7 +14,7 @@ My first experience with programming was in my last year of high school, where I
 2. ![Image of pc](https://tecsuggest.com/wp-content/uploads/2020/06/Best-Budget-Compact-Gaming-PC-Under-1000.jpg)
 3. ![Fishing at Imperial Beach](https://i.ytimg.com/vi/MHzBF5a9O2s/maxresdefault.jpg)
 
-External Link: Link to my GitHub Repo's main branch [here](https://github.com/bsalvania/CSE-110-Lab/tree/main)
+External Link: Link to my GitHub Repo's main branch [here](https://github.com/bsalvania/CSE-110-Lab)
 
 ### Relative link:
 [READ.me file.](/README.md)
