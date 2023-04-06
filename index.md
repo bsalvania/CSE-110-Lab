@@ -8,7 +8,7 @@ My first experience with programming was in my last year of high school, where I
 ### Things I enjoy doing
 - Going on walks
 - Playing video games on my pc and switch
-- Go fishing with my family
+- Go fishing with my uncle
 
 1. ![Image of man walking](https://cdn6.dissolve.com/p/D1024_53_480/D1024_53_480_1200.jpg)
 2. ![Image of pc](https://tecsuggest.com/wp-content/uploads/2020/06/Best-Budget-Compact-Gaming-PC-Under-1000.jpg)
